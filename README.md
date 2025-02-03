@@ -11,10 +11,9 @@
 [![TechBookology](https://img.shields.io/badge/TechBookology-Programming%20Books-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TechBookology)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-jafari7&layout=compact&theme=dark)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahdi-jafari7&color=blue&style=flat)
+
 
 
 
@@ -26,7 +25,8 @@
 in badan ezafe she
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi-jafari7&show_icons=true&theme=radical)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-jafari7&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=mahdi-jafari7&color=blue&style=flat)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
